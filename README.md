@@ -22,7 +22,7 @@
 | :--- | :--- | :--- |
 | 📄 **Report** | [Ai_impact_On_Job_Report.pdf](./Ai_impact_On_Job_Report.pdf) | [cite_start]เล่มรายงานฉบับสมบูรณ์ที่ปรับปรุงเนื้อหาใหม่  |
 | 💻 **Source Code** | [AI_Impact_On_Jobs.ipynb](./AI_Impact_On_Jobs.ipynb) |
-| 📊 **Presentation** | [Ai_impact_on_job_presentation.pdf](./Ai_impact_on_job_presentation.pdf) | [cite_start]สไลด์สรุปเนื้อหาประกอบการนำเสนอ  |
+| 📊 **Presentation** | [Ai_impact_on_job_presentation.pdf](./AI_impact_on_job_presentation.pdf) | [cite_start]สไลด์สรุปเนื้อหาประกอบการนำเสนอ  |
 | 📚 **References** | [Paper_The_Future_of_Employment.pdf](./Paper_The_Future_of_Employment.pdf) | [cite_start]งานวิจัยอ้างอิงจาก Oxford |
 | 📚 **References** | [Paper_rescale.pdf](./Paper_rescale.pdf) | [cite_start]งานวิจัยอ้างอิงจากทฤษฎี Cost-Sensitive Learning|
 
